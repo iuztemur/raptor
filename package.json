@@ -1,0 +1,29 @@
+{
+  "name": "raptor",
+  "version": "0.1.0",
+  "description": "Next-generation performance testing and visualization for Firefox OS Automation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mozilla-b2g/raptor.git"
+  },
+  "keywords": [
+    "performance",
+    "testing",
+    "visualization",
+    "firefox-os",
+    "b2g"
+  ],
+  "author": "Eli Perelman",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://bugzilla.mozilla.org"
+  },
+  "homepage": "https://github.com/mozilla-b2g/raptor",
+  "devDependencies": {},
+  "dependencies": {
+    "adbkit-logcat": "^1.0.3",
+    "promise": "^6.0.1",
+    "shelljs": "^0.3.0"
+  }
+}
