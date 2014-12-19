@@ -1,5 +1,5 @@
 {
-  "name": "raptor",
+  "name": "gaia-raptor",
   "version": "0.1.0",
   "description": "Next-generation performance testing and visualization for Firefox OS Automation",
   "main": "index.js",
@@ -23,7 +23,14 @@
   "devDependencies": {},
   "dependencies": {
     "adbkit-logcat": "^1.0.3",
-    "promise": "^6.0.1",
-    "shelljs": "^0.3.0"
+    "async": "^0.9.0",
+    "change-case": "^2.1.5",
+    "debug": "^2.1.0",
+    "deepmerge": "^0.2.7",
+    "dotenv": "^0.4.0",
+    "influx": "^3.0.0",
+    "mozilla-profile-builder": "^0.4.0",
+    "orng": "^0.2.0",
+    "promise": "^6.0.1"
   }
 }
