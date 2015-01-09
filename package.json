@@ -1,6 +1,6 @@
 {
   "name": "gaia-raptor",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Next-generation performance testing and visualization for Firefox OS Automation",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,10 @@
     "firefox-os",
     "b2g"
   ],
-  "author": "Eli Perelman",
+  "author": {
+    "name": "Eli Perelman",
+    "email": "eli@eliperelman.com"
+  },
   "license": "Apache",
   "bugs": {
     "url": "https://bugzilla.mozilla.org"
@@ -29,8 +32,19 @@
     "deepmerge": "^0.2.7",
     "dotenv": "^0.4.0",
     "influx": "^3.0.0",
-    "mozilla-profile-builder": "^0.4.0",
     "orng": "^0.3.0",
     "promise": "^6.0.1"
-  }
+  },
+  "scripts": {},
+  "maintainers": [
+    {
+      "name": "Eli Perelman",
+      "email": "eli@eliperelman.com"
+    },
+    {
+      "name": "Rob Wood",
+      "email": "rwood@mozilla.com"
+    }
+  ],
+  "directories": {}
 }

@@ -17,6 +17,10 @@
     ]
   ],
   "preferences": {
-    "grid.cols": 4
+    "grid.cols": 4,
+    "raptor.ordinalX": 35,
+    "raptor.ordinalY": 140.5,
+    "raptor.columnIncrement": 80,
+    "raptor.rowIncrement": 102
   }
 }
