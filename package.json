@@ -1,6 +1,6 @@
 {
   "name": "gaia-raptor",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Next-generation performance testing and visualization for Firefox OS Automation",
   "main": "index.js",
   "repository": {
@@ -25,15 +25,13 @@
   "homepage": "https://github.com/mozilla-b2g/raptor",
   "devDependencies": {},
   "dependencies": {
-    "adbkit-logcat": "^1.0.3",
     "async": "^0.9.0",
-    "change-case": "^2.1.5",
     "debug": "^2.1.0",
     "deepmerge": "^0.2.7",
     "dotenv": "^0.4.0",
     "influx": "^3.0.0",
-    "orng": "^0.3.0",
-    "promise": "^6.0.1"
+    "promise": "^6.0.1",
+    "mozdevice": "^1.0.0"
   },
   "scripts": {},
   "maintainers": [
