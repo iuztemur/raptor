@@ -31,7 +31,7 @@
     "dotenv": "^0.4.0",
     "influx": "^3.0.0",
     "promise": "^6.0.1",
-    "mozdevice": "^1.0.0"
+    "mozdevice": "^1.1.0"
   },
   "scripts": {},
   "maintainers": [
