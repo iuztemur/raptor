@@ -1,6 +1,6 @@
 {
   "name": "gaia-raptor",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Next-generation performance testing and visualization for Firefox OS Automation",
   "main": "index.js",
   "repository": {
