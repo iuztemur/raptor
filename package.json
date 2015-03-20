@@ -1,6 +1,6 @@
 {
   "name": "gaia-raptor",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Next-generation performance testing and visualization for Firefox OS Automation",
   "main": "index.js",
   "repository": {
@@ -31,7 +31,7 @@
     "deepmerge": "^0.2.7",
     "dotenv": "^0.4.0",
     "influx": "^3.0.0",
-    "mozdevice": "^2.1.0",
+    "mozdevice": "^2.1.1",
     "promise": "^6.0.1",
     "stats-lite": "^1.0.3"
   },
